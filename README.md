@@ -1,7 +1,6 @@
 # SwitchBotManager
 A web-based SwitchBot device management application built with FigmaMake.
-
-# Version 0.5.0
+Version 0.5.0
 
 ## About the App
 This is a free web application that allows you to retrieve, display, and operate your SwitchBot devices by using your SwitchBot API Token and Client Secret.  
